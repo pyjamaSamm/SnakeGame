@@ -2,7 +2,9 @@
 Classic game of snake!
 
 Project title: Snake_Game
+
 Author: Gulafsha Ahmed
+
 Language: Python
 
 This is the classic game of snake in which the user needs to feed the snake as much food as the player can without hitting the wall or its own body!
